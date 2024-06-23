@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-EmptyGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\Unreal Engine Projects\EmptyGame\Intermediate\Build\Win64\x64\EmptyGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"G:\Unreal Engine Projects\EmptyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\EmptyGame\EmptyGame.init.gen.cpp.obj"
+"G:\Unreal Engine Projects\EmptyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\EmptyGame\EmptyGameCharacter.gen.cpp.obj"
+"G:\Unreal Engine Projects\EmptyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\EmptyGame\EmptyGameGameMode.gen.cpp.obj"
+"G:\Unreal Engine Projects\EmptyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\EmptyGame\EmptyGamePlayerController.gen.cpp.obj"
+"G:\Unreal Engine Projects\EmptyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\EmptyGame\EmptyGameProjectile.gen.cpp.obj"
+"G:\Unreal Engine Projects\EmptyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\EmptyGame\TP_PickUpComponent.gen.cpp.obj"
+"G:\Unreal Engine Projects\EmptyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\EmptyGame\TP_WeaponComponent.gen.cpp.obj"
+"G:\Unreal Engine Projects\EmptyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\EmptyGame\EmptyGame.cpp.obj"
+"G:\Unreal Engine Projects\EmptyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\EmptyGame\EmptyGameCharacter.cpp.obj"
+"G:\Unreal Engine Projects\EmptyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\EmptyGame\EmptyGameGameMode.cpp.obj"
+"G:\Unreal Engine Projects\EmptyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\EmptyGame\EmptyGamePlayerController.cpp.obj"
+"G:\Unreal Engine Projects\EmptyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\EmptyGame\EmptyGameProjectile.cpp.obj"
+"G:\Unreal Engine Projects\EmptyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\EmptyGame\TP_PickUpComponent.cpp.obj"
+"G:\Unreal Engine Projects\EmptyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\EmptyGame\TP_WeaponComponent.cpp.obj"
+"G:\Unreal Engine Projects\EmptyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\EmptyGame\Default.rc2.res"
+/OUT:"G:\Unreal Engine Projects\EmptyGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\EmptyGame\UnrealEditor-EmptyGame.lib"

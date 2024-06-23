@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\unreal engine projects\\emptygame\\intermediate\\build\\win64\\unrealeditor\\inc\\emptygame\\uht\\emptygame.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\unreal engine projects\\emptygame\\intermediate\\build\\win64\\x64\\emptygameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\unreal engine projects\\emptygame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\emptygame\\definitions.emptygame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\EmptyGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\EmptyGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\EmptyGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.ignore" />
+    <None Include="..\..\EmptyGame.code-workspace" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\EmptyGame">
+      <UniqueIdentifier>{8F677B8C-AEC7-3703-86BB-3BBF4B53390B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\EmptyGame\EmptyGame.Build.cs">
+      <Filter>Source\EmptyGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\EmptyGame\EmptyGame.cpp">
+      <Filter>Source\EmptyGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EmptyGame\EmptyGame.h">
+      <Filter>Source\EmptyGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EmptyGame\EmptyGameCharacter.cpp">
+      <Filter>Source\EmptyGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EmptyGame\EmptyGameCharacter.h">
+      <Filter>Source\EmptyGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EmptyGame\EmptyGameGameMode.cpp">
+      <Filter>Source\EmptyGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EmptyGame\EmptyGameGameMode.h">
+      <Filter>Source\EmptyGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EmptyGame\EmptyGamePlayerController.cpp">
+      <Filter>Source\EmptyGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EmptyGame\EmptyGamePlayerController.h">
+      <Filter>Source\EmptyGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EmptyGame\EmptyGameProjectile.cpp">
+      <Filter>Source\EmptyGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EmptyGame\EmptyGameProjectile.h">
+      <Filter>Source\EmptyGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EmptyGame\TP_PickUpComponent.cpp">
+      <Filter>Source\EmptyGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EmptyGame\TP_PickUpComponent.h">
+      <Filter>Source\EmptyGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EmptyGame\TP_WeaponComponent.cpp">
+      <Filter>Source\EmptyGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EmptyGame\TP_WeaponComponent.h">
+      <Filter>Source\EmptyGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"G:\\Unreal Engine Projects\\EmptyGame\\Source\\EmptyGame\\EmptyGame.Build.cs",
+		"G:\\Unreal Engine Projects\\EmptyGame\\Source\\EmptyGame.Target.cs",
+		"G:\\Unreal Engine Projects\\EmptyGame\\Source\\EmptyGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.2"
+}
